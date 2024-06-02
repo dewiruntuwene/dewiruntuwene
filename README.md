@@ -24,13 +24,15 @@ I am also a **Machine Learning** graduate at [Bangkit Academy](https://id.linked
 ###
 
 <div align="left">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/vue-original.svg" height="40" alt="vue logo"  />
+  <img src="https://logosdownload.com/logo/vue.js-logo-big.png" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
