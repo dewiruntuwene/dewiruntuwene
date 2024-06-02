@@ -4,7 +4,9 @@
 
 <p align="left">My name is **Dewi Fareley**.
 
-I am a **Machine Learning** student in [Bangkit Academy](https://id.linkedin.com/company/bangkit-academy).</p>
+I have been **Information Sytem** student at [Klabat University](https://www.unklab.ac.id/) since 2021.
+
+I am also **Machine Learning** graduate at [Bangkit Academy](https://id.linkedin.com/company/bangkit-academy) Batch 2 2023.</p>
 
 ###
 
@@ -27,8 +29,6 @@ I am a **Machine Learning** student in [Bangkit Academy](https://id.linkedin.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/vue-original.svg" height="40" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
