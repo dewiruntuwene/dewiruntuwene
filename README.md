@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Dewi Fareley**.
+<p align="left">My name is **Dewi Fareley** . 
 
 I have been **Information Sytem** student at [Klabat University](https://www.unklab.ac.id/) since 2021.
 
