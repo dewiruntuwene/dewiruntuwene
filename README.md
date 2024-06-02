@@ -4,9 +4,9 @@
 
 <p align="left">My name is **Dewi Fareley** . 
 
-I have been **Information Sytem** student at [Klabat University](https://www.unklab.ac.id/) since 2021.
+I have been an **Information Sytem** student at [Klabat University](https://www.unklab.ac.id/) since 2021.
 
-I am also **Machine Learning** graduate at [Bangkit Academy](https://id.linkedin.com/company/bangkit-academy) Batch 2 2023.</p>
+I am also a **Machine Learning** graduate at [Bangkit Academy](https://id.linkedin.com/company/bangkit-academy) Batch 2 2023.</p>
 
 ###
 
