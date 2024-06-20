@@ -14,7 +14,7 @@ I am also a **Machine Learning** graduate at [Bangkit Academy](https://id.linked
 
 ###
 
-<p align="left">✨ I enjoy learning<br>📚 I'm currently learning Machine Learning and Backend Development<br>🎯 Goals: A Rocket to The Moon<br>If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/dewi-runtuwene-113490219 ).
+<p align="left">✨ I enjoy learning<br>📚 I'm currently learning Machine Learning and Backend Development<br>🎯 Goals: A Rocket to The Moon<br>If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/dewi-runtuwene-113490219/).
 </p>
 
 ###
